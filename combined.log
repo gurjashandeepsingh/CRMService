@@ -1,0 +1,626 @@
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:22:44.028Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:23:04.642Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:23:14.828Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T09:23:14.848Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:25:20.491Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T09:25:20.504Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:25:31.165Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T09:25:31.185Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:27:49.296Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T09:27:49.311Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:28:13.603Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T09:28:13.620Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:28:27.042Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T09:28:27.058Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:28:40.644Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T09:28:40.659Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:28:54.504Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T09:28:54.520Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:29:03.269Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T09:29:03.284Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:35:49.487Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T09:35:49.502Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:36:16.393Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T09:36:16.409Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:40:05.794Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T09:40:05.814Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:41:18.807Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T09:41:18.823Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:41:24.742Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T09:41:24.759Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:41:45.025Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T09:41:45.040Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:45:53.948Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T09:45:53.961Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:49:05.865Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T09:49:05.885Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:49:47.216Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T09:49:47.230Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:49:56.888Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T09:49:56.902Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:51:12.358Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T09:51:12.372Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:52:58.916Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T09:52:58.934Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:53:39.338Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T09:53:39.352Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:54:06.105Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T09:54:06.118Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T09:54:56.771Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T09:54:56.787Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:02:02.420Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:02:02.441Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:02:44.305Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:02:44.321Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:03:14.021Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:03:14.046Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:03:48.075Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:03:48.096Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:04:05.350Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:04:05.370Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:04:07.526Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:04:07.540Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:04:16.580Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:04:16.598Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:05:06.432Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:05:06.448Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:10:30.605Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:10:30.638Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:26:54.610Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:26:54.630Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:28:29.941Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:28:29.958Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:28:44.833Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:28:44.847Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:28:50.301Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:28:50.315Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:30:10.720Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:30:10.740Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:30:54.822Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:30:54.836Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:32:47.573Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:32:47.589Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:33:29.559Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:33:29.578Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:36:56.297Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:36:56.312Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:37:30.902Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:37:30.921Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:38:08.084Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:38:08.106Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:38:56.174Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:38:56.191Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:39:50.295Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:39:50.309Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:40:20.115Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:40:20.139Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:44:39.312Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:44:39.330Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:45:29.862Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:45:29.880Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:45:42.455Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:45:42.473Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:47:01.385Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:47:01.406Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:48:31.713Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:48:31.730Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:51:15.542Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:51:15.558Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:52:16.225Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:52:16.242Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:53:08.314Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:53:08.330Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T10:58:01.634Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T10:58:01.651Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:00:35.641Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:00:35.668Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:01:21.442Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:01:21.473Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:01:26.439Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:01:26.465Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:02:12.907Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:02:12.937Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:03:09.007Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:03:09.034Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:10:06.568Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:10:06.590Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:11:22.105Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:11:22.139Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:11:36.993Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:11:37.023Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:11:58.313Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:11:58.337Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:12:58.567Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:12:58.593Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:13:00.486Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:13:00.509Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:20:26.444Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:20:26.475Z"}
+{"level":"error","timestamp":"2024-03-08T11:20:29.449Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:24:17.832Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:24:17.851Z"}
+{"level":"error","timestamp":"2024-03-08T11:24:21.276Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:31:46.838Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:31:46.863Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:33:52.722Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:33:52.757Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:34:02.065Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:34:02.092Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:39:37.523Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:39:37.543Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:41:24.338Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:41:24.358Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:42:27.888Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:42:27.905Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:45:40.293Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:45:40.316Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:46:04.430Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:46:04.461Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:46:49.644Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:46:49.669Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:48:39.505Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:48:39.530Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:50:56.378Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:50:56.394Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:51:42.193Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:51:42.215Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:53:07.118Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:53:07.141Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:54:06.064Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:54:06.078Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T11:54:30.364Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T11:54:30.395Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:02:33.762Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:02:33.786Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:05:18.486Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:05:18.502Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:09:25.466Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:09:25.487Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:10:58.131Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:10:58.164Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:11:17.889Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:11:17.915Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:12:17.916Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:12:17.932Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:12:26.714Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:12:26.739Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:12:29.454Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:12:29.482Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:19:07.955Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:19:07.994Z"}
+{"level":"info","message":{"savedLevel":{"__v":0,"_id":"65eb02463692478b83d09347","createdAt":"2024-03-08T12:19:18.337Z","label":"Employee","level":2,"organization":1,"updatedAt":"2024-03-08T12:19:18.337Z"},"savedUser":{"__v":0,"_id":"65eb02463692478b83d09348","createdAt":"2024-03-08T12:19:18.363Z","email":"john.doe@example.com","levelId":"65eb02463692478b83d09347","name":"John Doe","password":"$2b$10$Ib8TVHdmzodBrn1i7fVK3u2Ne0CTWsEiZAUoyn1aEpASQFT2KvpL.","updatedAt":"2024-03-08T12:19:18.363Z"}},"timestamp":"2024-03-08T12:19:18.385Z"}
+{"level":"info","message":{"savedLevel":{"__v":0,"_id":"65eb04d83692478b83d0934c","createdAt":"2024-03-08T12:30:16.195Z","label":"Executive Manager","level":2,"organization":1,"updatedAt":"2024-03-08T12:30:16.195Z"},"savedUser":{"__v":0,"_id":"65eb04d83692478b83d0934d","createdAt":"2024-03-08T12:30:16.199Z","email":"john.doe@example.com","levelId":"65eb04d83692478b83d0934c","name":"John Doe","password":"$2b$10$TdBUcuzbaYX14Sng6IicJuNRO.sitosTuw.i2NNZAMtU76c6ee32i","updatedAt":"2024-03-08T12:30:16.199Z"}},"timestamp":"2024-03-08T12:30:16.204Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:31:25.855Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:31:25.883Z"}
+{"level":"info","message":{"savedLevel":{"__v":0,"_id":"65eb052e1c905ee53cd8d836","createdAt":"2024-03-08T12:31:42.423Z","label":"Executive Manager","level":2,"organization":1,"updatedAt":"2024-03-08T12:31:42.423Z"},"savedUser":{"__v":0,"_id":"65eb052e1c905ee53cd8d837","createdAt":"2024-03-08T12:31:42.431Z","email":"john.doe@example.com","levelId":"65eb052e1c905ee53cd8d836","name":"John Doe","password":"$2b$10$hkIonLyuziBDun1NCLH75ek2qsH2Pr4O0CE61pk.jtfGQoIP6sZb.","updatedAt":"2024-03-08T12:31:42.431Z"}},"timestamp":"2024-03-08T12:31:42.438Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:41:00.551Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:41:00.576Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:43:50.879Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:43:50.913Z"}
+{"level":"info","message":{"__v":0,"_id":"65eb052e1c905ee53cd8d837","createdAt":"2024-03-08T12:31:42.431Z","email":"john.doe@example.com","levelId":"65eb052e1c905ee53cd8d836","name":"John Doe","password":"$2b$10$hkIonLyuziBDun1NCLH75ek2qsH2Pr4O0CE61pk.jtfGQoIP6sZb.","updatedAt":"2024-03-08T12:31:42.431Z"},"timestamp":"2024-03-08T12:44:46.940Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:47:25.733Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:47:25.756Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:49:15.359Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:49:15.374Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:49:54.049Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:49:54.073Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:50:44.368Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:50:44.391Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:51:36.011Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:51:36.028Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:52:13.593Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:52:13.610Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:52:59.668Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:52:59.693Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:53:14.338Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:53:14.360Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:53:32.167Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:53:32.190Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:53:45.882Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:53:45.897Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:53:55.060Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:53:55.082Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:54:10.624Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:54:10.654Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:54:26.005Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:54:26.027Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:54:53.048Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:54:53.064Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:55:03.721Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:55:03.791Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:55:48.569Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:55:48.587Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:56:28.991Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:56:29.020Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:57:39.990Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:57:40.016Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:59:37.342Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:59:37.361Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T12:59:50.223Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T12:59:50.248Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T13:00:30.079Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T13:00:30.108Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T13:08:31.987Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T13:08:32.010Z"}
+{"level":"info","message":{"checkCredentials":{"__v":0,"_id":"65eb052e1c905ee53cd8d837","createdAt":"2024-03-08T12:31:42.431Z","email":"john.doe@example.com","levelId":"65eb052e1c905ee53cd8d836","name":"John Doe","password":"$2b$10$hkIonLyuziBDun1NCLH75ek2qsH2Pr4O0CE61pk.jtfGQoIP6sZb.","updatedAt":"2024-03-08T12:31:42.431Z"},"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NWViMDUyZTFjOTA1ZWU1M2NkOGQ4MzciLCJpYXQiOjE3MDk5MDMzNTd9.TZEgI2mRTmPT2ckUtYkv-9HBedhydpA1VNMjBwKv-e8"},"timestamp":"2024-03-08T13:09:17.715Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-08T13:10:27.421Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-08T13:10:27.442Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T03:52:41.694Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T03:52:41.717Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T03:54:39.033Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T03:54:39.059Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T03:55:08.868Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T03:55:08.890Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T03:55:26.018Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T03:55:26.042Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T03:58:48.399Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T03:58:48.419Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T03:58:58.283Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T03:58:58.308Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:00:46.131Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:00:46.154Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:01:09.606Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:01:09.635Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:01:50.258Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:01:50.285Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:02:50.106Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:02:50.130Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:06:16.610Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:06:16.636Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:06:43.678Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:06:43.704Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:06:45.450Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:06:45.474Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:06:47.933Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:06:47.957Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:06:54.487Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:06:54.504Z"}
+{"level":"info","message":{"checkCredentials":{"__v":0,"_id":"65eb052e1c905ee53cd8d837","createdAt":"2024-03-08T12:31:42.431Z","email":"john.doe@example.com","levelId":"65eb052e1c905ee53cd8d836","name":"John Doe","password":"$2b$10$hkIonLyuziBDun1NCLH75ek2qsH2Pr4O0CE61pk.jtfGQoIP6sZb.","updatedAt":"2024-03-08T12:31:42.431Z"},"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NWViMDUyZTFjOTA1ZWU1M2NkOGQ4MzciLCJpYXQiOjE3MDk5NTczMzN9.NKSpTHZxT2Q91XSfQoNYh55QLA5I1xrqxguC6ZmNxUg"},"timestamp":"2024-03-09T04:08:53.707Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:10:14.774Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:10:14.805Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:10:16.236Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:10:16.312Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:11:03.436Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:11:03.461Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:11:06.788Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:11:06.803Z"}
+{"level":"info","message":{"OldInfo":{"__v":0,"_id":"65eb052e1c905ee53cd8d837","createdAt":"2024-03-08T12:31:42.431Z","email":"john.doe@example.com","levelId":"65eb052e1c905ee53cd8d836","name":"John Doe","password":"$2b$10$hkIonLyuziBDun1NCLH75ek2qsH2Pr4O0CE61pk.jtfGQoIP6sZb.","updatedAt":"2024-03-08T12:31:42.431Z"},"newInfo":{"acknowledged":true,"matchedCount":1,"modifiedCount":1,"upsertedCount":0,"upsertedId":null}},"timestamp":"2024-03-09T04:11:08.597Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:11:59.292Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:11:59.322Z"}
+{"level":"info","message":{"OldInfo":{"__v":0,"_id":"65eb052e1c905ee53cd8d837","createdAt":"2024-03-08T12:31:42.431Z","email":"john.doe@example.com","levelId":"65eb052e1c905ee53cd8d836","name":"John Doee","password":"$2b$10$hkIonLyuziBDun1NCLH75ek2qsH2Pr4O0CE61pk.jtfGQoIP6sZb.","updatedAt":"2024-03-09T04:11:08.581Z"},"newInfo":{"__v":0,"_id":"65eb052e1c905ee53cd8d837","createdAt":"2024-03-08T12:31:42.431Z","email":"john.doe@example.com","levelId":"65eb052e1c905ee53cd8d836","name":"John Doeee","password":"$2b$10$hkIonLyuziBDun1NCLH75ek2qsH2Pr4O0CE61pk.jtfGQoIP6sZb.","updatedAt":"2024-03-09T04:12:08.206Z"}},"timestamp":"2024-03-09T04:12:08.227Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:12:23.418Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:12:23.441Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:27:40.972Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:27:41.026Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:28:46.888Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:28:46.912Z"}
+{"level":"info","message":{"checkCredentials":{"__v":0,"_id":"65eb052e1c905ee53cd8d837","createdAt":"2024-03-08T12:31:42.431Z","email":"john.doe@example.com","levelId":"65eb052e1c905ee53cd8d836","name":"John Doeee","password":"$2b$10$hkIonLyuziBDun1NCLH75ek2qsH2Pr4O0CE61pk.jtfGQoIP6sZb.","updatedAt":"2024-03-09T04:12:08.206Z"},"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NWViMDUyZTFjOTA1ZWU1M2NkOGQ4MzciLCJpYXQiOjE3MDk5NTg1MzF9.8npV-IhY5xlgdLUh8o41YfxgMFUJX2VFzbjzgTtW3CU"},"timestamp":"2024-03-09T04:28:51.135Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:32:51.883Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:32:51.914Z"}
+{"level":"info","message":{"OldInfo":{"__v":0,"_id":"65eb052e1c905ee53cd8d837","createdAt":"2024-03-08T12:31:42.431Z","email":"john.doe@example.com","levelId":"65eb052e1c905ee53cd8d836","name":"John Doeee","password":"$2b$10$hkIonLyuziBDun1NCLH75ek2qsH2Pr4O0CE61pk.jtfGQoIP6sZb.","updatedAt":"2024-03-09T04:12:08.206Z"},"newInfo":{"__v":0,"_id":"65eb052e1c905ee53cd8d837","createdAt":"2024-03-08T12:31:42.431Z","email":"john.doe@example.com","levelId":"65eb052e1c905ee53cd8d836","name":"John Doeee","password":"$2b$10$hkIonLyuziBDun1NCLH75ek2qsH2Pr4O0CE61pk.jtfGQoIP6sZb.","updatedAt":"2024-03-09T04:33:02.260Z"}},"timestamp":"2024-03-09T04:33:02.293Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:34:24.458Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:34:24.474Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:34:30.050Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:34:30.075Z"}
+{"level":"info","message":{"OldInfo":{"__v":0,"_id":"65eb052e1c905ee53cd8d837","createdAt":"2024-03-08T12:31:42.431Z","email":"john.doe@example.com","levelId":"65eb052e1c905ee53cd8d836","name":"John Doeee","password":"$2b$10$hkIonLyuziBDun1NCLH75ek2qsH2Pr4O0CE61pk.jtfGQoIP6sZb.","updatedAt":"2024-03-09T04:33:02.260Z"},"newInfo":{"__v":0,"_id":"65eb052e1c905ee53cd8d837","createdAt":"2024-03-08T12:31:42.431Z","email":"john.doe@example.com","levelId":"65eb052e1c905ee53cd8d836","name":"John Doeee","password":"$2b$10$hkIonLyuziBDun1NCLH75ek2qsH2Pr4O0CE61pk.jtfGQoIP6sZb.","updatedAt":"2024-03-09T04:34:38.301Z"}},"timestamp":"2024-03-09T04:34:38.316Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:42:01.330Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:42:01.353Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:44:40.422Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:44:40.445Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:47:14.252Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:47:14.273Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:47:51.819Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:47:51.840Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:52:05.642Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:52:05.671Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:55:30.892Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:55:30.911Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:55:32.092Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:55:32.108Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:55:33.174Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:55:33.197Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:55:40.730Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:55:40.765Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:56:40.044Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:56:40.070Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T04:59:29.745Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T04:59:29.768Z"}
+{"level":"info","message":{"savedLevel":{"__v":0,"_id":"65ebeec790b0b43b995b629c","createdAt":"2024-03-09T05:08:23.597Z","label":"Executive Manager","level":2,"organization":1,"updatedAt":"2024-03-09T05:08:23.597Z"},"savedUser":{"__v":0,"_id":"65ebeec790b0b43b995b629d","createdAt":"2024-03-09T05:08:23.603Z","email":"john.doe1@example.com","isAdmin":false,"levelId":"65ebeec790b0b43b995b629c","name":"John Doe","password":"$2b$10$szisYMPpkGHoPIHJ4owFgeNCOItiP1w8zhLoEkCXlwtUtwREI5of6","updatedAt":"2024-03-09T05:08:23.603Z"}},"timestamp":"2024-03-09T05:08:23.611Z"}
+{"level":"info","message":{"checkCredentials":{"__v":0,"_id":"65ebeec790b0b43b995b629d","createdAt":"2024-03-09T05:08:23.603Z","email":"john.doe1@example.com","isAdmin":false,"levelId":"65ebeec790b0b43b995b629c","name":"John Doe","password":"$2b$10$szisYMPpkGHoPIHJ4owFgeNCOItiP1w8zhLoEkCXlwtUtwREI5of6","updatedAt":"2024-03-09T05:08:23.603Z"},"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NWViZWVjNzkwYjBiNDNiOTk1YjYyOWQiLCJpYXQiOjE3MDk5NjEwMTF9.d8dOH47Nlz3OeQK2Iu5ZFC9xEwDRFW-1jvPRbnHereg"},"timestamp":"2024-03-09T05:10:11.281Z"}
+{"level":"info","message":{"OldInfo":{"__v":0,"_id":"65ebeec790b0b43b995b629d","createdAt":"2024-03-09T05:08:23.603Z","email":"john.doe1@example.com","isAdmin":false,"levelId":"65ebeec790b0b43b995b629c","name":"John Doe","password":"$2b$10$szisYMPpkGHoPIHJ4owFgeNCOItiP1w8zhLoEkCXlwtUtwREI5of6","updatedAt":"2024-03-09T05:08:23.603Z"},"newInfo":{"__v":0,"_id":"65ebeec790b0b43b995b629d","createdAt":"2024-03-09T05:08:23.603Z","email":"john.doe1@example.com","isAdmin":true,"levelId":"65ebeec790b0b43b995b629c","name":"John Doe","password":"$2b$10$szisYMPpkGHoPIHJ4owFgeNCOItiP1w8zhLoEkCXlwtUtwREI5of6","updatedAt":"2024-03-09T05:12:38.320Z"}},"timestamp":"2024-03-09T05:12:38.331Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T05:18:16.755Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T05:18:16.784Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T05:19:18.231Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T05:19:18.256Z"}
+{"level":"info","message":"Employee has been deleted successfully, [object Object]","timestamp":"2024-03-09T05:19:21.620Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T05:21:10.948Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T05:21:10.973Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T05:28:33.438Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T05:28:33.468Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T05:36:31.563Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T05:36:31.590Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T05:38:09.342Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T05:38:09.359Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T05:39:03.474Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T05:39:03.502Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T05:39:13.586Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T05:39:13.616Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T05:39:52.527Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T05:39:52.555Z"}
+{"level":"info","message":"Showing employees: [{\"_id\":\"65eb052e1c905ee53cd8d836\",\"level\":2,\"label\":\"Executive Manager\",\"organization\":1,\"createdAt\":\"2024-03-08T12:31:42.423Z\",\"updatedAt\":\"2024-03-08T12:31:42.423Z\",\"__v\":0},{\"_id\":\"65ebeec790b0b43b995b629c\",\"level\":2,\"label\":\"Executive Manager\",\"organization\":1,\"createdAt\":\"2024-03-09T05:08:23.597Z\",\"updatedAt\":\"2024-03-09T05:08:23.597Z\",\"__v\":0}]","timestamp":"2024-03-09T05:40:30.388Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T05:51:39.567Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T05:51:39.605Z"}
+{"level":"info","message":"Showing employees: [{\"_id\":\"65eb052e1c905ee53cd8d836\",\"level\":2,\"label\":\"Executive Manager\",\"organization\":1,\"createdAt\":\"2024-03-08T12:31:42.423Z\",\"updatedAt\":\"2024-03-08T12:31:42.423Z\",\"__v\":0},{\"_id\":\"65ebeec790b0b43b995b629c\",\"level\":2,\"label\":\"Executive Manager\",\"organization\":1,\"createdAt\":\"2024-03-09T05:08:23.597Z\",\"updatedAt\":\"2024-03-09T05:08:23.597Z\",\"__v\":0}]","timestamp":"2024-03-09T05:52:45.809Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T05:53:28.151Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T05:53:28.195Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T06:07:05.146Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T06:07:05.175Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-09T06:11:20.099Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-09T06:11:20.157Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T07:17:10.610Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T07:17:10.637Z"}
+{"level":"info","message":{"savedLevel":{"__v":0,"_id":"65ed5ea15bcec70b7530ba59","createdAt":"2024-03-10T07:17:54.022Z","label":"Executive Manager","level":3,"organization":1,"updatedAt":"2024-03-10T07:17:54.022Z"},"savedUser":{"__v":0,"_id":"65ed5ea25bcec70b7530ba5a","createdAt":"2024-03-10T07:17:54.032Z","email":"john.doe2@example.com","isAdmin":false,"levelId":"65ed5ea15bcec70b7530ba59","name":"John Doe","password":"$2b$10$q1tGtE98oaUn6RoFkbzQAuRxAf0GC//hNonR/e1tVxvcUoaTN9qHS","updatedAt":"2024-03-10T07:17:54.032Z"}},"timestamp":"2024-03-10T07:17:54.048Z"}
+{"level":"info","message":{"checkCredentials":{"__v":0,"_id":"65ebeec790b0b43b995b629d","createdAt":"2024-03-09T05:08:23.603Z","email":"john.doe1@example.com","isAdmin":true,"levelId":"65ebeec790b0b43b995b629c","name":"John Doe","password":"$2b$10$szisYMPpkGHoPIHJ4owFgeNCOItiP1w8zhLoEkCXlwtUtwREI5of6","updatedAt":"2024-03-09T05:12:38.320Z"},"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NWViZWVjNzkwYjBiNDNiOTk1YjYyOWQiLCJpYXQiOjE3MTAwNTUzNTF9.-QFS702yVYOcGxqu3QGeXxaXVwlef7GeXcyJevqt3j8"},"timestamp":"2024-03-10T07:22:31.738Z"}
+{"level":"info","message":"Showing employees: []","timestamp":"2024-03-10T07:23:39.946Z"}
+{"level":"info","message":"Showing employees: [{\"_id\":\"65eb052e1c905ee53cd8d836\",\"level\":2,\"label\":\"Executive Manager\",\"organization\":1,\"createdAt\":\"2024-03-08T12:31:42.423Z\",\"updatedAt\":\"2024-03-08T12:31:42.423Z\",\"__v\":0},{\"_id\":\"65ebeec790b0b43b995b629c\",\"level\":2,\"label\":\"Executive Manager\",\"organization\":1,\"createdAt\":\"2024-03-09T05:08:23.597Z\",\"updatedAt\":\"2024-03-09T05:08:23.597Z\",\"__v\":0},{\"_id\":\"65ed5ea15bcec70b7530ba59\",\"level\":3,\"label\":\"Executive Manager\",\"organization\":1,\"createdAt\":\"2024-03-10T07:17:54.022Z\",\"updatedAt\":\"2024-03-10T07:17:54.022Z\",\"__v\":0}]","timestamp":"2024-03-10T07:23:44.907Z"}
+{"level":"info","message":"Showing employees: [{\"_id\":\"65eb052e1c905ee53cd8d836\",\"level\":2,\"label\":\"Executive Manager\",\"organization\":1,\"createdAt\":\"2024-03-08T12:31:42.423Z\",\"updatedAt\":\"2024-03-08T12:31:42.423Z\",\"__v\":0},{\"_id\":\"65ebeec790b0b43b995b629c\",\"level\":2,\"label\":\"Executive Manager\",\"organization\":1,\"createdAt\":\"2024-03-09T05:08:23.597Z\",\"updatedAt\":\"2024-03-09T05:08:23.597Z\",\"__v\":0},{\"_id\":\"65ed5ea15bcec70b7530ba59\",\"level\":3,\"label\":\"Executive Manager\",\"organization\":1,\"createdAt\":\"2024-03-10T07:17:54.022Z\",\"updatedAt\":\"2024-03-10T07:17:54.022Z\",\"__v\":0}]","timestamp":"2024-03-10T07:55:12.586Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T07:58:17.426Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T07:58:17.449Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T07:59:55.380Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T07:59:55.405Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:00:08.555Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:00:08.579Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:08:57.737Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:08:57.758Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:09:14.565Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:09:14.581Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:09:21.428Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:09:21.454Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:09:32.241Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:09:32.265Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:09:37.589Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:09:37.614Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:09:55.747Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:09:55.766Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:10:37.525Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:10:37.547Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:10:46.346Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:10:46.375Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:13:24.017Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:13:24.040Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:13:52.722Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:13:52.740Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:14:04.168Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:14:04.188Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:15:09.837Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:15:09.877Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:16:28.387Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:16:28.411Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:24:12.437Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:24:12.468Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:30:56.924Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:30:56.941Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:32:32.100Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:32:32.121Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:32:49.995Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:32:50.020Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:33:09.939Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:33:09.966Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:34:30.256Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:34:30.278Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:35:16.272Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:35:16.296Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:35:20.445Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:35:20.472Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:35:31.888Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:35:31.911Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:37:07.667Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:37:07.684Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:37:22.237Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:37:22.252Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:38:11.932Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:38:11.963Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:38:22.924Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:38:22.956Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:38:54.631Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:38:54.647Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:39:37.518Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:39:37.545Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-10T08:55:31.106Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-10T08:55:31.127Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T08:20:31.129Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T08:20:31.174Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T08:23:11.818Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T08:23:11.842Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T08:28:54.741Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T08:28:54.759Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T08:30:47.135Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T08:30:47.179Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T08:33:48.967Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T08:33:48.986Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T08:34:30.236Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T08:34:30.262Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T08:35:02.398Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T08:35:02.429Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T08:35:21.814Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T08:35:21.841Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T08:39:20.542Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T08:39:20.569Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T08:40:43.715Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T08:40:43.758Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T08:45:15.291Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T08:45:15.325Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T08:46:08.783Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T08:46:08.827Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T08:46:48.701Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T08:46:48.737Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T08:48:09.223Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T08:48:09.261Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T08:52:21.694Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T08:52:21.717Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T08:53:21.613Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T08:53:21.649Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T08:57:51.680Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T08:57:51.715Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T09:01:54.850Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T09:01:54.882Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T09:03:09.466Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T09:03:09.500Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T09:04:06.435Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T09:04:06.469Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T09:06:13.626Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T09:06:13.658Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T09:08:26.573Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T09:08:26.620Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T09:08:50.243Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T09:08:50.271Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T09:08:57.423Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T09:08:57.450Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T09:09:19.248Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T09:09:19.287Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T09:20:24.306Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T09:20:24.334Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T09:22:11.634Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T09:22:11.668Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T09:25:03.602Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T09:25:03.627Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T09:25:22.456Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T09:25:22.493Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T09:27:41.840Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T09:27:41.884Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T09:28:34.088Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T09:28:34.113Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T09:30:18.617Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T09:30:18.648Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T09:34:28.705Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T09:34:28.749Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T09:35:01.253Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T09:35:01.276Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T10:15:43.149Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T10:15:43.175Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T10:33:03.126Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T10:33:03.160Z"}
+{"level":"info","message":{"checkCredentials":{"__v":0,"_id":"65ebeec790b0b43b995b629d","createdAt":"2024-03-09T05:08:23.603Z","email":"john.doe1@example.com","isAdmin":true,"levelId":"65ebeec790b0b43b995b629c","name":"John Doe","password":"$2b$10$szisYMPpkGHoPIHJ4owFgeNCOItiP1w8zhLoEkCXlwtUtwREI5of6","updatedAt":"2024-03-09T05:12:38.320Z"},"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NWViZWVjNzkwYjBiNDNiOTk1YjYyOWQiLCJpYXQiOjE3MTAxNTMyMDF9.m8bcKMjkJJ9V1sZ4cHWwwh2oY5YxtjENkrylW1NnMlY"},"timestamp":"2024-03-11T10:33:21.461Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T10:38:26.666Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T10:38:26.689Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T10:46:22.085Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T10:46:22.102Z"}
+{"level":"info","message":{"checkCredentials":{"__v":0,"_id":"65ebeec790b0b43b995b629d","createdAt":"2024-03-09T05:08:23.603Z","email":"john.doe1@example.com","isAdmin":true,"levelId":"65ebeec790b0b43b995b629c","name":"John Doe","password":"$2b$10$szisYMPpkGHoPIHJ4owFgeNCOItiP1w8zhLoEkCXlwtUtwREI5of6","updatedAt":"2024-03-09T05:12:38.320Z"},"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NWViZWVjNzkwYjBiNDNiOTk1YjYyOWQiLCJpYXQiOjE3MTAxNTQwMjd9.NbwuOS3EHWO3d4jhx_DrNZyu3OCFFTfJ18oeCSDu8k4"},"timestamp":"2024-03-11T10:47:07.481Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T10:50:22.402Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T10:50:22.418Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T10:51:08.531Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T10:51:08.560Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T10:51:17.460Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T10:51:17.476Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T10:51:22.654Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T10:51:22.675Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T10:52:13.560Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T10:52:13.593Z"}
+{"level":"error","timestamp":"2024-03-11T10:52:16.296Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T10:52:35.152Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T10:52:35.172Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T10:53:35.911Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T10:53:35.937Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-11T10:54:15.279Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-11T10:54:15.314Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-12T10:00:26.097Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-12T10:00:26.120Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-12T10:01:23.668Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-12T10:01:23.697Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-12T10:03:30.740Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-12T10:03:30.768Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-12T10:03:55.710Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-12T10:03:55.736Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-12T10:04:55.082Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-12T10:04:55.105Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-12T10:06:06.366Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-12T10:06:06.406Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-12T10:09:04.105Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-12T10:09:04.147Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-12T10:10:17.581Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-12T10:10:17.606Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-12T10:11:11.382Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-12T10:11:11.405Z"}
+{"level":"info","message":{"savedLevel":{"__v":0,"_id":"65f02ac9adf1227044d6f25f","createdAt":"2024-03-12T10:13:29.444Z","label":"Executive Manager 1","level":1,"organization":1,"updatedAt":"2024-03-12T10:13:29.444Z"},"savedUser":{"__v":0,"_id":"65f02ac9adf1227044d6f260","createdAt":"2024-03-12T10:13:29.452Z","email":"john.doe3@example.com","isAdmin":false,"levelId":"65f02ac9adf1227044d6f25f","name":"John Doe","parentId":"65ebeec790b0b43b995b629d","password":"$2b$10$B9q/zmip35AG4rSVucSc/uQ2xHO14sxo9q7vKSzBs7GsfZ9RRqHEO","updatedAt":"2024-03-12T10:13:29.452Z"}},"timestamp":"2024-03-12T10:13:29.458Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-12T11:36:22.654Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-12T11:36:22.681Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-12T11:39:58.510Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-12T11:39:58.542Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-12T11:41:00.505Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-12T11:41:00.528Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-12T11:41:43.468Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-12T11:41:43.487Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-12T11:43:30.054Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-12T11:43:30.091Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-12T11:43:33.230Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-12T11:43:33.257Z"}
+{"level":"info","message":{"checkCredentials":{"__v":0,"_id":"65ebeec790b0b43b995b629d","createdAt":"2024-03-09T05:08:23.603Z","email":"john.doe1@example.com","isAdmin":true,"levelId":"65ebeec790b0b43b995b629c","name":"John Doe","password":"$2b$10$szisYMPpkGHoPIHJ4owFgeNCOItiP1w8zhLoEkCXlwtUtwREI5of6","updatedAt":"2024-03-09T05:12:38.320Z"},"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NWViZWVjNzkwYjBiNDNiOTk1YjYyOWQiLCJpYXQiOjE3MTAyNDM4MTl9.EAVMBeIMxPNyUiVcsGfg0pmZfHjZ6u2TANHFNcIV2GU"},"timestamp":"2024-03-12T11:43:39.507Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T08:45:04.285Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T08:45:04.314Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T08:45:57.581Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T08:45:57.612Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T08:46:28.511Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T08:46:28.542Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T08:46:31.249Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T08:46:31.276Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T08:57:21.123Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T08:57:21.146Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T08:59:19.803Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T08:59:19.828Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T08:59:36.762Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T08:59:36.788Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T09:00:33.080Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T09:00:33.116Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T09:01:00.779Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T09:01:00.805Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T09:01:30.909Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T09:01:30.930Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T09:05:55.422Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T09:05:55.444Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T09:08:52.007Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T09:08:52.030Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T09:12:02.658Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T09:12:02.678Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T09:15:18.056Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T09:15:18.085Z"}
+{"level":"info","message":{"savedUser":{"__v":0,"_id":"65f16eaf8c9a7a88a41b0d31","createdAt":"2024-03-13T09:15:27.777Z","email":"john.doe6@example.com","isAdmin":false,"levelId":"65f1698d4248588c54decf89","name":"John Doe","parentId":"65ebeec790b0b43b995b629d","password":"$2b$10$FdlI07DKj/baS3WHzKskvu.Lv.fz4uVt1rwg6..CSp.QMgC.9Ul26","updatedAt":"2024-03-13T09:15:27.777Z"}},"timestamp":"2024-03-13T09:15:27.787Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T09:19:37.126Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T09:19:37.142Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T09:19:44.312Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T09:19:44.336Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T09:20:35.375Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T09:20:35.399Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T09:25:33.903Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T09:25:33.930Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T09:25:44.852Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T09:25:44.900Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T09:27:58.797Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T09:27:58.827Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T09:28:16.642Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T09:28:16.662Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T09:28:31.922Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T09:28:31.944Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T09:35:53.106Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T09:35:53.132Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T09:36:04.431Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T09:36:04.467Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T10:15:33.957Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T10:15:33.982Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T10:16:49.705Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T10:16:49.728Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T10:17:34.509Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T10:17:34.537Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T10:17:57.470Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T10:17:57.499Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T10:19:47.318Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T10:19:47.344Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T10:20:22.621Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T10:20:22.649Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T10:21:28.681Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T10:21:28.705Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T10:22:19.044Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T10:22:19.069Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-13T10:22:36.133Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-13T10:22:36.158Z"}
+{"level":"info","message":"Server started","timestamp":"2024-03-18T04:10:54.975Z"}
+{"level":"info","message":"Database connected to CRM-Software","timestamp":"2024-03-18T04:10:55.025Z"}
